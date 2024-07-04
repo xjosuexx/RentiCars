@@ -1,0 +1,11 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body{
+    background: url(./Assets/Fondo\ renticars.png) no-repeat;   
+    background-size: cover;
+    font-family: 'Century Gothic',sans-serif;
+    }

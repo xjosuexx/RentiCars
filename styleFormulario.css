@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    }
+    
+    body{
+    background: url(./Assets/textura\ madera\ fondo\ formulario.jpg) no-repeat;   
+    background-size: cover;
+    font-family: 'Century Gothic',sans-serif;
+    }
+    
+    .box {
+        width: 620px;
+        background: rgba(49, 41, 41, 0.4);
+        margin: 0 auto;
+        margin-top: 4%;
+        padding: 20px;
+        color: white;
+        text-align: center;
+        border-radius: 20px;
+    }
+    
